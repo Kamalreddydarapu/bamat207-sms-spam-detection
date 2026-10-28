@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+
+# Environment
+.env
+venv/
+env/
+
+# Zip downloads
+*.zip
+data/sms.zip
